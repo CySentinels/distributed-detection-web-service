@@ -1,0 +1,13 @@
+beautifulsoup4
+pandas
+seaborn
+matplotlib
+numpy
+python-whois
+scikit-learn
+joblib
+tldextract
+dnspython
+flask
+gunicorn
+hypercorn
